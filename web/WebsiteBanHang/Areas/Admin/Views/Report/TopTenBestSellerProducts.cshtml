@@ -1,0 +1,57 @@
+﻿@model IEnumerable<WebsiteLaptopphukien.Models.ProductCategory>
+
+@{
+    ViewBag.Title = "Thống kê top 10 sản phẩm bán nhiều nhất";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="content py-2">
+    <div class="container-fluid">
+        <!--Content-->
+        <div class="card">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-8">
+                        @Html.Partial("_MessageAlert")
+                        <h5 class="text-csm">@ViewBag.Title</h5>
+                    </div>
+                    <div class="col-4">
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="product" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th class="no-sort text-center" style="width:3rem;">STT</th>
+                            <th class="no-sort text-center" style="width:3rem;">ID</th>
+                            <th class="no-sort text-center">Hình ảnh</th>
+                            <th class="no-sort">Tên sản phẩm</th>
+                            <th class="no-sort">Danh mục</th>
+                            <th class="no-sort">SL bán ra</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{var stt = 1;}
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@stt</td>
+                                <td class="text-center">@Html.DisplayFor(modelItem => item.ProductId)</td>
+                                <td><img src="~/Public/images/products/@Html.DisplayFor(modelItem => item.ProductImg)" alt="Error" width="70" class="d-block m-auto" />  </td>
+                                <td><a href="~/Admin/Product/Details/@item.ProductId">@Html.DisplayFor(modelItem => item.ProductName)</a>  </td>
+                                <td>@Html.DisplayFor(modelItem => item.CategoryName)</td>
+                                <td class="text-center">
+                                    @Html.DisplayFor(modelItem => item.QuantitySum)
+                                </td>
+                            </tr>
+                            stt++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

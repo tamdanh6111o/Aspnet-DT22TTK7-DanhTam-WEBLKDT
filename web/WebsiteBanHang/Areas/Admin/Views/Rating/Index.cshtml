@@ -1,0 +1,63 @@
+﻿@model IEnumerable<WebsiteLaptopphukien.Models.MOrderDetail>
+
+@{
+    ViewBag.Title = "Quản lý đánh giá sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="content py-2">
+    <div class="container-fluid">
+        <!--Content-->
+        <div class="card">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-8">
+                        @Html.Partial("_MessageAlert")
+                        <h5 class="text-csm">@ViewBag.Title</h5>
+                    </div>
+                    <div class="col-4">
+                       
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="product" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th class="no-sort text-center" style="width:3rem;">STT</th>
+                            <th class="no-sort text-center" style="width:3rem;">ID</th>
+                            <th class="no-sort">Tên sản phẩm</th>
+                            <th class="no-sort">Rating</th>
+                            <th class="no-sort">Đánh giá</th>
+                            <th class="no-sort">Ngày đánh giá</th>
+                            <th class="no-sort text-center" style="width:10rem">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{var stt = 1;}
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@stt</td>
+                                <td class="text-center">@Html.DisplayFor(modelItem => item.ProductID)</td>
+                                <td><a href="~/Admin/Product/Details/@item.ProductID">@Html.DisplayFor(modelItem => item.Product.Name)</a>  </td>
+                                <td><input type="text" class="rating" value="@item.Rating" data-show-clear="false" data-show-caption="false" data-readonly="true" /></td>
+                                <td>@Html.DisplayFor(modelItem => item.RatingNote)</td>
+                                <td class="text-center">
+                                    @Html.DisplayFor(modelItem => item.RatingDate)
+                                </td>
+                                <td class="text-center">
+                                    <button type="button" class="btn btn-danger btn-sm" data-toggle="tooltip" data-placement="top" title="Xóa">
+                                        <a href="@Url.Action("Delete", "Rating", new { id = item.ID })" class="text-white"><i class="far fa-trash-alt"></i></a>
+                                    </button>
+                                </td>
+                            </tr>
+                            stt++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

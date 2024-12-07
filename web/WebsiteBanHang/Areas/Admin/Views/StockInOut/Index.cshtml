@@ -1,0 +1,90 @@
+﻿@model IEnumerable<WebsiteLaptopphukien.Models.MStockInOut>
+
+@{
+    ViewBag.Title = "Quản lý danh sách nhập xuất kho hàng hoá";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<section class="content py-2">
+    <div class="container-fluid">
+        <!--Content-->
+        <div class="card">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-8">
+                        @Html.Partial("_MessageAlert")
+                        <h5 class="text-csm">@ViewBag.Title</h5>
+                    </div>
+                    <div class="col-4">
+                        <div class="float-right pt-1">
+                            <button type="button" class="btn btn-primary btn-sm">
+                                <a href="~/Admin/StockInOut/Create" class="text-white"><i class="fas fa-plus fa-xs"></i>&nbsp; Thêm mới</a>
+                            </button>
+                            @*<button type="button" class="btn btn-danger btn-sm">
+                                <a href="~/Admin/StockInOut/Trash" class="text-white"><i class="far fa-trash-alt fa-xs"></i>&nbsp; Thùng rác(@(ViewBag.countTrash ?? "?"))</a>
+                            </button>*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="product" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th class="no-sort text-center" style="width:3rem;">STT</th>
+                            <th class="no-sort text-center" style="width:3rem;">ID</th>
+                            <th class="no-sort text-center">Số Phiếu</th>
+                            <th class="no-sort">Người Lập</th>
+                            <th class="no-sort">Ngày Lập</th>
+                            <th class="no-sort">Ghi Chú</th>
+                            <th class="no-sort">Loại Chứng Từ</th>
+                            <th class="no-sort text-center" style="width:10rem">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{var stt = 1;}
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@stt</td>
+                                <td class="text-center">@Html.DisplayFor(modelItem => item.ID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Code)</td>
+                                <td>@Html.DisplayFor(modelItem => item.User.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.CreateDate)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Note)</td>
+                                <td class="text-center">
+                                    @if (item.Type == "IN")
+                                    {
+                                        <span>Phiếu nhập</span>
+                                    }
+
+                                    @if (item.Type == "OUT")
+                                    {
+                                        <span>Phiếu xuất</span>
+                                    }
+                                </td>
+                                <td class="text-center">
+                                    <label class="switch">
+                                        @if (item.Status == 1)
+                                        {<input class="changeStatus" data-id="@item.ID" data-controller="StockInOut" type="checkbox" checked>}
+                                        else
+                                        {<input class="changeStatus" data-id="@item.ID" data-controller="StockInOut" type="checkbox">}
+                                        <span class="slider round"></span>
+                                    </label>
+                                    <button type="button" class="btn btn-primary btn-sm" data-toggle="tooltip" data-placement="top" title="Chỉnh sửa">
+                                        <a href="@Url.Action("Update", "StockInOut", new { id = item.ID })" class="text-white"><i class="fas fa-pen"></i></a>
+                                    </button>
+                                    <button type="button" class="btn btn-danger btn-sm" data-toggle="tooltip" data-placement="top" title="Xóa">
+                                        <a href="@Url.Action("Delete", "StockInOut", new { id = item.ID })" class="text-white"><i class="far fa-trash-alt"></i></a>
+                                    </button>
+                                </td>
+                            </tr>
+                            stt++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

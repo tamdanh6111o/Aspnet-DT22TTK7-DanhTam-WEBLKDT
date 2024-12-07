@@ -1,0 +1,85 @@
+﻿
+<!DOCTYPE HTML>
+<HTML lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="canonical" href="#" />
+    <title>Phụ kiện điện thoại</title>
+    @*<meta name="description" content="@((ViewBag.MetaDesc) ?? "Hoàng Dũng Books")" />
+        <meta name="keywords" content="@((ViewBag.MetaKey) ?? "Hoàng Dũng Books")" />*@
+
+    <link rel="icon" href="~/Public/images/icon-k.png">
+    <link rel="stylesheet" href="~/Public/css/bootstrap.min.css">
+    <!-- owl -->
+    <link rel="stylesheet" href="~/Public/css/owl.carousel.css">
+    <link rel="stylesheet" href="~/Public/css/all.min.css">
+    <link rel="stylesheet" href="~/Public/css/imageSprite.css" />
+    <script src="~/Public/js/sweetalert2@9.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link href="~/Public/css/stylee.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/css/star-rating.min.css" media="all" rel="stylesheet" type="text/css" />
+    <!-- with v4.1.0 Krajee SVG theme is used as default (and must be loaded as below) - include any of the other theme CSS files as mentioned below (and change the theme property of the plugin) -->
+    <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/themes/krajee-svg/theme.css" media="all" rel="stylesheet" type="text/css" />
+    @*<link href="~/Public/css/styleshop.css" rel="stylesheet" />*@
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    @*<script src="~/Public/js/jquery-3.5.1.js"></script>*@
+    <script src="~/Public/js/SomeeAdsRemover.js"></script>
+
+
+</head>
+
+<body onload=onReady()>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/6241e3ca2abe5b455fc2049b/1fv8m3kou';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
+    @Html.Action("Header", "Module")
+
+    @RenderBody()
+
+    @Html.Action("Footer", "Module")
+
+    <div style="background:#f3f3f3">
+        <div class="copyright container-91">
+            Created by Coder
+        </div>
+    </div>
+
+    <div id="bttop" style="display: none;">
+        <span>Về đầu trang<i class="fas fa-long-arrow-alt-up text-center px-2 pb-1" style="transform: rotate(90deg);"></i></span>
+    </div>
+    <!-- owl -->
+    <script src="~/Public/js/owl.carousel.js"></script>
+    <script src="~/Public/js/qrcode.min.js"></script>
+    <script src="~/Public/js/popper.min.js"></script>
+    <script src="~/Public/js/bootstrap.min.js"></script>
+    <script src="~/Public/js/target.min.js"></script>
+    <!-- with v4.1.0 Krajee SVG theme is used as default (and must be loaded as below) - include any of the other theme JS files as mentioned below (and change the theme property of the plugin) -->
+    <script src="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/themes/krajee-svg/theme.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/js/star-rating.min.js" type="text/javascript"></script>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v9.0&appId=699266887289373&autoLogAppEvents=1" nonce="xJm9L3lp"></script>
+    <script>
+        $(document).ready(function () {
+            $(".rating").rating();
+            $("div[style='opacity: 0.9; z-index: 2147483647; position: fixed; left: 0px; bottom: 0px; height: 65px; right: 0px; display: block; width: 100%; background-color: #202020; margin: 0px; padding: 0px;']").remove();
+            $("div[style='margin: 0px; padding: 0px; left: 0px; width: 100%; height: 65px; right: 0px; bottom: 0px; display: block; position: fixed; z-index: 2147483647; opacity: 0.9; background-color: rgb(32, 32, 32);']").remove();
+            $("div[onmouseover='S_ssac();']").remove();
+            $("center").remove();
+            $("div[style='height: 65px;']").remove();
+        });
+    </script>
+</body>
+
+</HTML>

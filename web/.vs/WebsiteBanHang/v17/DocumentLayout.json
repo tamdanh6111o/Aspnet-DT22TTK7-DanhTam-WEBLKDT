@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|c:\\users\\admin\\downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\account\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\account\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\site\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\site\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\public\\js\\target.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\public\\js\\target.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\shared\\_layoutsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\shared\\_layoutsite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\module\\_newshome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\module\\_newshome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\module\\_homepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\module\\_homepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\rating\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\rating\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\account\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\account\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\stockinout\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\stockinout\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\stockinout\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\stockinout\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\mstockinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\mstockinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\stockinout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\stockinout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\controllers\\recommendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\controllers\\recommendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\report\\toptenbestsellerproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\report\\toptenbestsellerproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\mslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\mslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\module\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\module\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\module\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\module\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\views\\account\\_actionorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\views\\account\\_actionorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\library\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\library\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\library\\modelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\library\\modelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\areas\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\areas\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\websitebanhang\\models\\mtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FA8AB9-6A6E-4D13-A733-98FB2D21F85F}|WebsiteBanHang\\Website.csproj|solutionrelative:websitebanhang\\models\\mtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MOrder.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\MOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MOrder.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\MOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:58:06.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Web.config",
+              "RelativeToolTip": "WebsiteBanHang\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T03:25:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_HomePost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_HomePost.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Module\\_HomePost.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_HomePost.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Module\\_HomePost.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T03:59:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_NewsHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_NewsHome.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Module\\_NewsHome.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_NewsHome.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Module\\_NewsHome.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T04:00:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutSite.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Shared\\_LayoutSite.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Shared\\_LayoutSite.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Shared\\_LayoutSite.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Shared\\_LayoutSite.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:15.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\SiteController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\SiteController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:28:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Account\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\NotFound.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Account\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:58:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MProduct.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\MProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MProduct.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\MProduct.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:03:06.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\CartController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAvwPEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:38:00.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Site\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Site\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Site\\Home.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Site\\Home.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:27:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "target.min.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Public\\js\\target.min.js",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Public\\js\\target.min.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Public\\js\\target.min.js",
+              "RelativeToolTip": "WebsiteBanHang\\Public\\js\\target.min.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAG8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T04:29:10.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Rating\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Rating\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Rating\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Rating\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T15:39:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAAAFoCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T15:50:40.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T16:04:58.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:38:19.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:50:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAzwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:30:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:38:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Update.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Update.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T10:43:09.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\Order.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Account\\Order.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\Order.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Account\\Order.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwH0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:13:41.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA0wFgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T17:02:10.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Global.asax.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:20:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T11:20:26.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MStockInOut.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MStockInOut.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\MStockInOut.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MStockInOut.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\MStockInOut.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:29:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Create.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAzwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T07:57:43.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:54:46.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T10:30:47.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IndexAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\IndexAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\IndexAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\IndexAdmin.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\IndexAdmin.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:31:50.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\StockInOut\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAjwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T07:26:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAzwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:28:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TopTenBestSellerProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Report\\TopTenBestSellerProducts.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\Report\\TopTenBestSellerProducts.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\Report\\TopTenBestSellerProducts.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\Report\\TopTenBestSellerProducts.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T17:16:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RecommendController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\RecommendController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\RecommendController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Controllers\\RecommendController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\RecommendController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBPwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:02:11.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:20:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:03:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:50:07.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MSlider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MSlider.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\MSlider.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MSlider.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\MSlider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:34:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:31:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:30:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:30:35.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebsiteBanHang\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:27:49.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_Login.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Module\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_Login.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Module\\_Login.cshtml",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAAAJQBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:30:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:27:10.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Module\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Module\\_Header.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Module\\_Header.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAJoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:29:39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ActionOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\_ActionOrder.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Account\\_ActionOrder.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\_ActionOrder.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Account\\_ActionOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:13:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:12:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Account\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Account\\OrderDetails.cshtml",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:13:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:13:55.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Admin\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:14:22.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\Notification.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Library\\Notification.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\Notification.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Library\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:09:54.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ModelNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\ModelNotification.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Library\\ModelNotification.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\ModelNotification.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Library\\ModelNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:09:52.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CheckSlug.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\CheckSlug.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Areas\\Library\\CheckSlug.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Areas\\Library\\CheckSlug.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Areas\\Library\\CheckSlug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:09:51.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MTopic.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MTopic.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\MTopic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\laptoppk_update2_momo\\laptoppk_update2_momo\\WebsiteBanHang\\Models\\MTopic.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\MTopic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:09:40.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

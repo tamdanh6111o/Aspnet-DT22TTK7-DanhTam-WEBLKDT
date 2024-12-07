@@ -1,0 +1,31 @@
+﻿@model IEnumerable<WebsiteLaptopphukien.Models.MMenu>
+<footer  style="background-color: #808080; color: white;padding:10px" class="container-fluid">
+    <div class="row container-91 my-4">    
+        <div class="col-3">
+                    <div style="color:white !important" class="title text-uppercase font-weight-bold">Về chúng tôi</div>
+                    @foreach (var k in Model)
+                    {
+                            <a href="~/@k.Link"  style="color:white !important" class="ll text-decoration-none text-dark"> ‣ @k.Name</a>
+                    }
+                </div>
+           
+        <div class="col-3">
+            <div class="title  font-weight-bold">TỔNG ĐÀI HỖ TRỢ (GỌI MIỄN PHÍ)</div>
+            <p  style="color:white !important" class="ll text-decoration-none text-dark"> Liên hệ <h6 style="color:white" class="font-weight-bold">0123456789</h6></p>
+            <p style="color:white !important" class="ll text-decoration-none text-dark"> Liên hệ <h6 style="color:white" class="font-weight-bold">0123456789 </h6></p>
+
+        </div>
+        <div class="col-3">
+            <div style="color:white !important" class="title font-weight-bold mb-2">KHÁCH HÀNG</div>
+            
+            
+        </div>
+        <div class="col-md-3">
+            <div style="color:white !important" class="title text-uppercase font-weight-bold">KẾT NỐI VỚI CHÚNG TÔI</div>
+          
+            <p  style="color:white !important" class="ll text-decoration-none text-dark"> Email: <h6 style="color:white" class="font-weight-bold">Laptop và phụ kiện@gmail.com</h6></p>
+            @*<p  style="color:white !important" class="ll text-decoration-none text-dark"> Email <h6 style="color:white" class="font-weight-bold">Letuan01697@gmail.com</h6></p>*@
+        </div>
+    </div>
+
+</footer>
